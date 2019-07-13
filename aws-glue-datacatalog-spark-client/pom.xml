@@ -107,6 +107,9 @@
                                     <include>com.amazonaws.glue:hive2-shims</include>
                                     <include>com.amazonaws.glue:shims-loader</include>
                                     <include>com.amazonaws.glue:spark-hive-shims</include>
+                                    <include>com.amazonaws:aws-java-sdk-glue</include>
+                                    <include>com.amazonaws:aws-java-sdk-core</include>
+                                    <include>com.amazonaws:aws-java-sdk-kms</include>
                                 </includes>
                             </artifactSet>
                         </configuration>
